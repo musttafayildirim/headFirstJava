@@ -1,2 +1,9 @@
-package com.company;public class B {
+package com.company;
+
+public class B extends A{
+
+    @Override
+    void m1() {
+        System.out.print("B's m1, ");
+    }
 }

@@ -1,6 +1,4 @@
-package beToCompiler;
-
-import java.net.SocketTimeoutException;
+package be.to.compiler;
 
 public class MonsterTestDrive {
     public static void main(String[] args){
