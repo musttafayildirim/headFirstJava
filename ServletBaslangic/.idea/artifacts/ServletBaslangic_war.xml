@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ServletBaslangic:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ServletBaslangic</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ServletBaslangic-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ServletBaslangic:war exploded" />
+    </root>
+  </artifact>
+</component>
